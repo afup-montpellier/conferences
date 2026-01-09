@@ -1,4 +1,11 @@
-# Conférences AFUP Montpellier
+# 📢 Conférences AFUP Montpellier
+
+![](assets/banner-afup-montpellier.png "Banniere AFUP Montpellier")
+
+Bienvenue dans le dépôt des meetups de l'AFUP Montpellier !<br>
+Ce repository est dédié à stocker l'ensemble des informations et ressources des meetups réalisés.<br>
+Notre objectif est de fournir un espace centralisé où les participants et les organisateurs peuvent accéder aux présentations, aux notes et à tout autre contenu pertinent des événements passés.
+
 Retrouvez-ici la liste des conférences, ainsi que les slides des conférenciers.
 
 |Date|Speaker|Titre|Slides|PDF|Lien|
